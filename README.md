@@ -1,4 +1,5 @@
 # accob
 
-now bitfile is vailable. 
-code comming soon.
+see
+
+https://github.com/aicer1/accob
